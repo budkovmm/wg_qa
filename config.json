@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "headless_mode": true,
+  "base_url": "https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites",
+  "timeout": 10
+}
